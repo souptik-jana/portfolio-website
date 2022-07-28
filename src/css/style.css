@@ -1,0 +1,53 @@
+.logo img{
+    width: 90px;
+    margin-left: 20px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+    align-items: center;
+}
+nav ul{
+    list-style-type: none;
+    display: inline-block;
+  
+}
+.container{
+    padding: 20px;
+    display: flex;
+    background-color: rgb(116, 228, 185);
+}
+nav ul li{
+    display: inline-block;
+  
+}
+nav ul li a{
+    float: right;
+    margin: 20px;
+    text-decoration: none;
+    padding: 0 20px;
+}
+.col-12 h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Libre Caslon Display', serif;
+
+}
+.col-12{
+   
+  margin-top: 0;
+  padding: 10px;
+}
+.artical{
+    display: flex;
+    justify-content: center;
+}
+.artical img{
+    width: 500px;
+    margin-left: 20px;
+}
+.content p{
+    padding: 30px;
+    margin: 20px 30px;
+    text-align: justify;
+}
