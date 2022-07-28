@@ -332,6 +332,9 @@ margin-left: 150px; */
 .contact .form{
   width: 100%;
 }
+.contact iframe{
+  width: 100%;
+}
 .testimonial .fa-solid{
   color: white;
 }
@@ -381,6 +384,10 @@ margin-left: 150px; */
   .col-6{
     width:50%
   }
+     .col-6 iframe{
+    width: 50%;
+  }
+
   .nav-link{
     width: 100%;
   }
